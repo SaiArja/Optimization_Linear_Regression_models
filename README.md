@@ -1,5 +1,5 @@
 # Optimization_Linear_Regression_models
-In this Repo I have implemented some of the optimization algorithms used in the Linear Regression with nice plots and explination
+Please have a look in to this Repo for the optimazation Algorithems used in the Linear Regression models
 
 The main challange of the Linear Regression is to minimise the cost function. that is to find the parameters that are well sutable to minimise the cost function
 
